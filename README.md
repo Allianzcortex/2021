@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML     |     2 |
 | 10 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala    |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-01-31 | md       |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-02-07 | md       |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md       |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python   |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java     |     0 |
@@ -59,17 +59,17 @@
 |  6 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | 2019-12-31 | JavaScript | 2021-02-07   |
-|  2 | [mern-marketplace](https://github.com/shamahoque/mern-marketplace)                        | 2020-10-21 | JavaScript | 2021-02-04   |
-|  3 | [ledisdb](https://github.com/ledisdb/ledisdb)                                             | 2018-02-09 | Go         | 2021-02-06   |
-|  4 | [lagou_crawler](https://github.com/namco1992/lagou_crawler)                               | 2016-07-08 | Python     | 2020-04-23   |
-|  5 | [LeetCode](https://github.com/kamyu104/LeetCode)                                          | 2016-07-20 | Python     | 2021-01-31   |
-|  6 | [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)                       | 2020-12-01 | Go         | 2021-02-06   |
-|  7 | [YOURLS](https://github.com/YOURLS/YOURLS)                                                | 2018-04-16 | PHP        | 2021-02-07   |
-|  8 | [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)    | 2021-01-06 | TypeScript | 2021-02-05   |
-|  9 | [vjtools](https://github.com/vipshop/vjtools)                                             | 2018-06-23 | Java       | 2021-02-07   |
-| 10 | [high-performance-go](https://github.com/geektutu/high-performance-go)                    | 2020-12-14 | Go         | 2021-02-06   |
+| ID |                                       REPO                                        | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|-------------------------|--------------|
+|  1 | [go-mysql-crud](https://github.com/s1s1ty/go-mysql-crud)                          | 2020-04-30 | Go                      | 2021-02-08   |
+|  2 | [go-mysql](https://github.com/siddontang/go-mysql)                                | 2017-09-08 | Go                      | 2021-02-11   |
+|  3 | [DigAndBuried](https://github.com/ColZer/DigAndBuried)                            | 2017-01-25 | GCC Machine Description | 2021-01-17   |
+|  4 | [go-id-alloc](https://github.com/owenliang/go-id-alloc)                           | 2020-04-05 | Go                      | 2020-12-15   |
+|  5 | [Coding-Interviews-Golang](https://github.com/DinghaoLI/Coding-Interviews-Golang) | 2020-01-01 | Go                      | 2021-02-05   |
+|  6 | [react-markdown](https://github.com/remarkjs/react-markdown)                      | 2020-02-28 | JavaScript              | 2021-02-13   |
+|  7 | [CoolplaySpark](https://github.com/lw-lin/CoolplaySpark)                          | 2016-11-24 | Scala                   | 2021-02-13   |
+|  8 | [shippy](https://github.com/EwanValentine/shippy)                                 | 2020-07-31 | Go                      | 2021-02-07   |
+|  9 | [CourseraML](https://github.com/kaleko/CourseraML)                                | 2016-08-21 | Jupyter Notebook        | 2021-02-13   |
+| 10 | [django-pagination](https://github.com/ericflo/django-pagination)                 | 2016-03-04 | Python                  | 2021-01-01   |
 
 <!--END_SECTION:my_github-->
