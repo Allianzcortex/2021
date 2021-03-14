@@ -5,8 +5,8 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   | LAUGUAGE | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|----------|-------|
-|  1 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-02-14 | Python   |   164 |
-|  2 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-03-02 | Java     |   155 |
+|  1 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-03-09 | Python   |   165 |
+|  2 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-03-12 | Java     |   155 |
 |  3 | [LaraForum](https://github.com/Allianzcortex/LaraForum)                                               | 2018-10-19 | 2020-11-14 | Java     |    16 |
 |  4 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2019-12-27 | Go       |     8 |
 |  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python   |     7 |
@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML     |     2 |
 | 10 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala    |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-02-28 | md       |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-03-07 | md       |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md       |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python   |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java     |     0 |
@@ -51,25 +51,25 @@
 ## The repos I contributed to
 | ID |                                           REPO                                            | FIRSTDATE  | LASTEDATE  |                                                PRCOUNT                                                 |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
-|  1 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  2 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
+|  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
+|  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
 |  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
 |  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
 |  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
 |  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ydict](https://github.com/TimothyYe/ydict)                                        | 2020-12-26 | Go         | 2021-03-03   |
-|  2 | [MachineLearning-C---code](https://github.com/pennyliang/MachineLearning-C---code) | 2015-11-16 | C++        | 2021-02-26   |
-|  3 | [go-angular](https://github.com/Shpota/go-angular)                                 | 2020-04-01 | TypeScript | 2021-02-08   |
-|  4 | [overture](https://github.com/shawn1m/overture)                                    | 2017-01-15 | Go         | 2021-03-03   |
-|  5 | [33-js-concepts](https://github.com/stephentian/33-js-concepts)                    | 2018-11-11 | JavaScript | 2021-03-07   |
-|  6 | [orly](https://github.com/nanmu42/orly)                                            | 2021-02-03 | Go         | 2021-03-02   |
-|  7 | [spring-cloud](https://github.com/yinjihuan/spring-cloud)                          | 2020-06-14 | Java       | 2021-03-04   |
-|  8 | [tunny](https://github.com/Jeffail/tunny)                                          | 2020-01-04 | Go         | 2021-03-05   |
-|  9 | [Json](https://github.com/Yuan-Hang/Json)                                          | 2018-01-05 | C++        | 2021-01-23   |
-| 10 | [sandglass](https://github.com/sandglass/sandglass)                                | 2017-12-11 | Go         | 2021-03-06   |
+| ID |                                           REPO                                           | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|-------------------------|--------------|
+|  1 | [DigAndBuried](https://github.com/ColZer/DigAndBuried)                                   | 2017-01-25 | GCC Machine Description | 2021-03-04   |
+|  2 | [algorithms](https://github.com/keon/algorithms)                                         | 2017-04-18 | Python                  | 2021-03-13   |
+|  3 | [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) | 2018-05-17 | md                      | 2021-03-12   |
+|  4 | [link](https://github.com/funny/link)                                                    | 2018-07-07 | Go                      | 2021-03-13   |
+|  5 | [redis-cerberus](https://github.com/projecteru/redis-cerberus)                           | 2015-11-25 | C++                     | 2021-03-11   |
+|  6 | [web-shop](https://github.com/Rosen97/web-shop)                                          | 2019-08-29 | TypeScript              | 2021-01-06   |
+|  7 | [scikit-learn](https://github.com/scikit-learn/scikit-learn)                             | 2016-02-26 | Python                  | 2021-03-14   |
+|  8 | [sample-spring-cloud-consul](https://github.com/piomin/sample-spring-cloud-consul)       | 2020-01-02 | Java                    | 2021-01-09   |
+|  9 | [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)       | 2020-02-28 | TypeScript              | 2021-03-14   |
+| 10 | [zhihu-analysis-python](https://github.com/simoncos/zhihu-analysis-python)               | 2016-04-23 | Python                  | 2021-03-10   |
 
 <!--END_SECTION:my_github-->
