@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML     |     2 |
 | 10 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala    |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-03-21 | md       |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-03-28 | md       |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md       |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python   |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java     |     0 |
@@ -61,15 +61,15 @@
 ## The repos I stared (random 10)
 | ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [slack_bot](https://github.com/python-cn/slack_bot)                                                | 2016-03-11 | Python     | 2021-01-29   |
-|  2 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2018-05-04 | md         | 2021-03-28   |
-|  3 | [web](https://github.com/hoisie/web)                                                               | 2016-09-20 | Go         | 2021-03-24   |
-|  4 | [qtunnel](https://github.com/getqujing/qtunnel)                                                    | 2017-09-11 | Go         | 2021-03-03   |
-|  5 | [react_step_form](https://github.com/bradtraversy/react_step_form)                                 | 2019-12-16 | JavaScript | 2021-03-10   |
-|  6 | [gocron](https://github.com/ouqiang/gocron)                                                        | 2017-09-25 | Go         | 2021-03-27   |
-|  7 | [slb](https://github.com/JackyChiu/slb)                                                            | 2018-12-26 | Go         | 2021-03-08   |
-|  8 | [link](https://github.com/funny/link)                                                              | 2018-07-07 | Go         | 2021-03-25   |
-|  9 | [android-open-project](https://github.com/Trinea/android-open-project)                             | 2016-08-23 | md         | 2021-03-27   |
-| 10 | [spring-cloud-kubernetes](https://github.com/fabric8io/spring-cloud-kubernetes)                    | 2018-03-30 | Java       | 2021-03-04   |
+|  1 | [cool-music](https://github.com/facebesidewyj/cool-music)                                          | 2018-09-13 | Vue        | 2021-03-23   |
+|  2 | [fullPage.js](https://github.com/alvarotrigo/fullPage.js)                                          | 2016-01-24 | JavaScript | 2021-04-03   |
+|  3 | [youjumpijump](https://github.com/faceair/youjumpijump)                                            | 2017-12-29 | Go         | 2021-03-31   |
+|  4 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                  | 2017-01-01 | Python     | 2021-01-06   |
+|  5 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2018-05-04 | md         | 2021-04-03   |
+|  6 | [Answer](https://github.com/henson/Answer)                                                         | 2018-01-29 | Go         | 2021-01-30   |
+|  7 | [fucking-java-concurrency](https://github.com/oldratlee/fucking-java-concurrency)                  | 2019-09-27 | Java       | 2021-03-31   |
+|  8 | [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation)   | 2016-11-29 | Java       | 2021-04-02   |
+|  9 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                             | 2020-12-07 | md         | 2021-04-04   |
+| 10 | [dora](https://github.com/bradford-hamilton/dora)                                                  | 2020-04-30 | Go         | 2021-02-17   |
 
 <!--END_SECTION:my_github-->
