@@ -6,7 +6,7 @@
 | ID |                                                 REPO                                                  |   START    |   UPDATE   | LAUGUAGE | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|----------|-------|
 |  1 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-04-16 | Python   |   164 |
-|  2 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-05-05 | Java     |   161 |
+|  2 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-05-13 | Java     |   162 |
 |  3 | [LaraForum](https://github.com/Allianzcortex/LaraForum)                                               | 2018-10-19 | 2020-11-14 | Java     |    16 |
 |  4 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2019-12-27 | Go       |     8 |
 |  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python   |     7 |
@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML     |     2 |
 | 10 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala    |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-05-02 | md       |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-05-09 | md       |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md       |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python   |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java     |     0 |
@@ -53,23 +53,23 @@
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
 |  2 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
-|  3 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  4 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
-|  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [python-data-structure-cn](https://github.com/facert/python-data-structure-cn)          | 2020-02-02 | md         | 2021-05-08   |
-|  2 | [ELKstack-guide-cn](https://github.com/chenryn/ELKstack-guide-cn)                       | 2017-02-18 | md         | 2021-05-08   |
-|  3 | [react-hooks](https://github.com/taniarascia/react-hooks)                               | 2020-02-29 | JavaScript | 2021-05-08   |
-|  4 | [MyTinySTL](https://github.com/Alinshans/MyTinySTL)                                     | 2018-04-10 | C++        | 2021-05-08   |
-|  5 | [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch)        | 2017-10-15 | Go         | 2021-05-08   |
-|  6 | [avatar-gen](https://github.com/wave-charts/avatar-gen)                                 | 2021-02-03 | Vue        | 2021-04-22   |
-|  7 | [cow](https://github.com/cyfdecyf/cow)                                                  | 2018-03-05 | Go         | 2021-05-06   |
-|  8 | [lintcode-in-java](https://github.com/venciallee/lintcode-in-java)                      | 2020-06-22 | Java       | 2021-03-02   |
-|  9 | [file-storage-system](https://github.com/blankjee/file-storage-system)                  | 2020-04-05 | Go         | 2021-05-06   |
-| 10 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-27 | md         | 2021-05-08   |
+| ID |                                                 REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [itjuzi_dis](https://github.com/hardy4yooz/itjuzi_dis)                                               | 2016-08-21 | Python   | 2021-04-26   |
+|  2 | [zinx](https://github.com/aceld/zinx)                                                                | 2019-04-23 | Go       | 2021-05-16   |
+|  3 | [LeetCode](https://github.com/YaokaiYang-assaultmaster/LeetCode)                                     | 2020-09-18 | Java     | 2021-04-12   |
+|  4 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                    | 2017-01-01 | Python   | 2021-01-06   |
+|  5 | [electron](https://github.com/electron/electron)                                                     | 2016-07-29 | C++      | 2021-05-15   |
+|  6 | [LeetCode-Solutions-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) | 2020-02-17 | Java     | 2021-05-15   |
+|  7 | [ledisdb](https://github.com/ledisdb/ledisdb)                                                        | 2018-02-09 | Go       | 2021-05-15   |
+|  8 | [manssh](https://github.com/xwjdsh/manssh)                                                           | 2017-10-10 | Go       | 2021-05-13   |
+|  9 | [dl-docker](https://github.com/floydhub/dl-docker)                                                   | 2017-03-01 | Python   | 2021-05-15   |
+| 10 | [PyTricks](https://github.com/brennerm/PyTricks)                                                     | 2020-05-08 | Python   | 2021-05-15   |
 
 <!--END_SECTION:my_github-->
