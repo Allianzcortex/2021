@@ -5,9 +5,9 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-06-17 | Python     |   166 |
-|  2 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-06-16 | Java       |   165 |
-|  3 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-06-17 | TypeScript |    18 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-06-26 | Java       |   167 |
+|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-06-17 | Python     |   166 |
+|  3 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-06-23 | TypeScript |    19 |
 |  4 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2019-12-27 | Go         |     8 |
 |  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
 |  6 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML       |     2 |
 | 10 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 11 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-06-13 | md         |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-06-20 | md         |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -53,23 +53,23 @@
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  4 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  5 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
-|  6 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  3 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  4 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ig-wxz-and-hotdog](https://github.com/sl1673495/ig-wxz-and-hotdog)      | 2018-11-12 | JavaScript | 2021-03-09   |
-|  2 | [rabbit-tcp](https://github.com/ihciah/rabbit-tcp)                       | 2019-10-27 | Go         | 2021-06-17   |
-|  3 | [python-social-auth](https://github.com/omab/python-social-auth)         | 2016-08-30 | Python     | 2021-06-18   |
-|  4 | [read_requests](https://github.com/wangshunping/read_requests)           | 2016-05-22 | md         | 2021-06-19   |
-|  5 | [distributed_crontab](https://github.com/funkol2007/distributed_crontab) | 2020-04-05 | Go         | 2021-02-24   |
-|  6 | [flask](https://github.com/pallets/flask)                                | 2015-10-01 | Python     | 2021-06-20   |
-|  7 | [go-scp](https://github.com/bramvdbogaerde/go-scp)                       | 2018-12-29 | Go         | 2021-06-16   |
-|  8 | [python-guide](https://github.com/realpython/python-guide)               | 2016-02-23 | Batchfile  | 2021-06-20   |
-|  9 | [webkitcrawler](https://github.com/7ws/webkitcrawler)                    | 2016-08-28 | Python     | 2021-04-21   |
-| 10 | [Simpic](https://github.com/xinyewl/Simpic)                              | 2018-07-31 | PHP        | 2021-03-25   |
+| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [fetool](https://github.com/nieweidong/fetool)                                            | 2019-04-24 | md               | 2021-06-25   |
+|  2 | [distributed_crontab](https://github.com/funkol2007/distributed_crontab)                  | 2020-04-05 | Go               | 2021-02-24   |
+|  3 | [oho-reader](https://github.com/ShanaMaid/oho-reader)                                     | 2018-11-02 | JavaScript       | 2021-04-19   |
+|  4 | [pouch](https://github.com/alibaba/pouch)                                                 | 2017-11-20 | Go               | 2021-06-25   |
+|  5 | [pytudes](https://github.com/norvig/pytudes)                                              | 2017-11-29 | Jupyter Notebook | 2021-06-26   |
+|  6 | [pyannotate](https://github.com/dropbox/pyannotate)                                       | 2017-11-20 | Python           | 2021-06-24   |
+|  7 | [delay-queue](https://github.com/ouqiang/delay-queue)                                     | 2017-09-25 | Go               | 2021-06-25   |
+|  8 | [Amazon-Forest-Computer-Vision](https://github.com/mratsim/Amazon-Forest-Computer-Vision) | 2017-09-10 | Jupyter Notebook | 2021-05-27   |
+|  9 | [python-projects](https://github.com/yangsiran/python-projects)                           | 2015-12-29 | Python           | 2020-01-18   |
+| 10 | [todomvc](https://github.com/tastejs/todomvc)                                             | 2018-10-21 | JavaScript       | 2021-06-26   |
 
 <!--END_SECTION:my_github-->
