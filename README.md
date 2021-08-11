@@ -5,8 +5,8 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-07-05 | Java       |   168 |
-|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-07-12 | Python     |   166 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-08-08 | Java       |   170 |
+|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-08-06 | Python     |   165 |
 |  3 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-07-09 | TypeScript |    19 |
 |  4 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-07-27 | Go         |    12 |
 |  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML       |     2 |
 | 10 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 11 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-07-31 | md         |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-08-01 | md         |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -53,23 +53,23 @@
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  4 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  5 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  6 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [GetBilibili](https://github.com/XhstormR/GetBilibili)                               | 2017-01-14 | Kotlin   | 2021-04-09   |
-|  2 | [Daily-Question](https://github.com/shfshanyue/Daily-Question)                       | 2020-07-28 | Vue      | 2021-08-01   |
-|  3 | [k8s-source-code-analysis](https://github.com/daniel-hutao/k8s-source-code-analysis) | 2020-09-11 | md       | 2021-07-29   |
-|  4 | [gochat](https://github.com/LockGit/gochat)                                          | 2019-12-01 | Go       | 2021-07-31   |
-|  5 | [MachineLearning](https://github.com/wepe/MachineLearning)                           | 2016-07-07 | Python   | 2021-07-31   |
-|  6 | [kcptun](https://github.com/xtaci/kcptun)                                            | 2017-09-10 | Go       | 2021-07-31   |
-|  7 | [django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)        | 2016-08-08 | Python   | 2021-07-26   |
-|  8 | [vanilla-bootstrap](https://github.com/kasperisager/vanilla-bootstrap)               | 2016-08-09 | CSS      | 2021-02-20   |
-|  9 | [pdfcpu](https://github.com/pdfcpu/pdfcpu)                                           | 2017-10-28 | Go       | 2021-07-31   |
-| 10 | [CS_Offer](https://github.com/selfboot/CS_Offer)                                     | 2017-09-21 | C++      | 2021-07-31   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [miaosha](https://github.com/qiurunze123/miaosha)                                                             | 2018-12-20 | Java       | 2021-08-11   |
+|  2 | [NeutrinoSourceCode](https://github.com/FledgeXu/NeutrinoSourceCode)                                          | 2020-06-17 | Java       | 2021-06-10   |
+|  3 | [pygrape](https://github.com/Leviathan1995/pygrape)                                                           | 2018-04-16 | Python     | 2021-01-11   |
+|  4 | [slb](https://github.com/JackyChiu/slb)                                                                       | 2018-12-26 | Go         | 2021-07-22   |
+|  5 | [qtunnel](https://github.com/getqujing/qtunnel)                                                               | 2017-09-11 | Go         | 2021-08-10   |
+|  6 | [full-stack-with-react-and-spring-boot](https://github.com/in28minutes/full-stack-with-react-and-spring-boot) | 2020-01-09 | JavaScript | 2021-08-10   |
+|  7 | [wechat-explorer](https://github.com/humiaozuzu/wechat-explorer)                                              | 2016-11-01 | Python     | 2021-07-25   |
+|  8 | [7days-golang](https://github.com/geektutu/7days-golang)                                                      | 2020-02-23 | Go         | 2021-08-11   |
+|  9 | [pdfcpu](https://github.com/pdfcpu/pdfcpu)                                                                    | 2017-10-28 | Go         | 2021-08-10   |
+| 10 | [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)                                       | 2020-11-04 | md         | 2021-08-07   |
 
 <!--END_SECTION:my_github-->
