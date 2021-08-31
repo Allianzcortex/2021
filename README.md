@@ -5,9 +5,9 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-08-20 | Java       |   171 |
-|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-08-17 | Python     |   166 |
-|  3 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-07-09 | TypeScript |    19 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-08-24 | Java       |   171 |
+|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-08-30 | Python     |   167 |
+|  3 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-08-23 | TypeScript |    19 |
 |  4 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-08-17 | Go         |    13 |
 |  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
 |  6 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML       |     2 |
 | 10 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 11 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-08-12 | md         |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-08-21 | md         |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -59,17 +59,17 @@
 |  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) | 2020-09-12 | md         | 2021-08-21   |
-|  2 | [cow](https://github.com/cyfdecyf/cow)                                                               | 2018-03-05 | Go         | 2021-08-20   |
-|  3 | [cvc](https://github.com/WilsonGua/cvc)                                                              | 2020-04-15 | md         | 2020-06-26   |
-|  4 | [express-typescript](https://github.com/mwanago/express-typescript)                                  | 2021-01-06 | TypeScript | 2021-08-20   |
-|  5 | [books-frontend](https://github.com/ridi/books-frontend)                                             | 2021-06-28 | TypeScript | 2021-07-26   |
-|  6 | [redislock](https://github.com/bsm/redislock)                                                        | 2021-01-26 | Go         | 2021-08-20   |
-|  7 | [abseil-cpp](https://github.com/abseil/abseil-cpp)                                                   | 2017-10-12 | C++        | 2021-08-21   |
-|  8 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)                              | 2019-02-10 | md         | 2021-08-21   |
-|  9 | [python-recsys](https://github.com/ocelma/python-recsys)                                             | 2016-02-16 | Python     | 2021-08-13   |
-| 10 | [android-open-project](https://github.com/Trinea/android-open-project)                               | 2016-08-23 | md         | 2021-08-20   |
+| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [sizedwaitgroup](https://github.com/remeh/sizedwaitgroup)             | 2018-12-30 | Go         | 2021-08-30   |
+|  2 | [dora](https://github.com/bradford-hamilton/dora)                     | 2020-04-30 | Go         | 2021-07-17   |
+|  3 | [mayblog](https://github.com/flyhigher139/mayblog)                    | 2017-04-10 | HTML       | 2021-07-28   |
+|  4 | [TopList](https://github.com/tophubs/TopList)                         | 2021-01-26 | Go         | 2021-08-30   |
+|  5 | [gopkg](https://github.com/bytedance/gopkg)                           | 2021-08-27 | Go         | 2021-08-28   |
+|  6 | [tunny](https://github.com/Jeffail/tunny)                             | 2020-01-04 | Go         | 2021-08-31   |
+|  7 | [Gaea](https://github.com/XiaoMi/Gaea)                                | 2019-05-26 | Go         | 2021-08-31   |
+|  8 | [v2ray-core](https://github.com/v2ray/v2ray-core)                     | 2017-10-17 | Go         | 2021-08-31   |
+|  9 | [mongoose-express-ts](https://github.com/polcham/mongoose-express-ts) | 2021-03-10 | TypeScript | 2021-08-29   |
+| 10 | [redux-thunk](https://github.com/reduxjs/redux-thunk)                 | 2019-12-03 | JavaScript | 2021-08-31   |
 
 <!--END_SECTION:my_github-->
