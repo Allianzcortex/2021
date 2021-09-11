@@ -5,7 +5,7 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-08-24 | Java       |   171 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-09-07 | Java       |   174 |
 |  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-08-30 | Python     |   167 |
 |  3 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-08-23 | TypeScript |    19 |
 |  4 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-08-17 | Go         |    13 |
@@ -16,7 +16,7 @@
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML       |     2 |
 | 10 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 11 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-08-31 | md         |     0 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-09-01 | md         |     0 |
 | 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -36,17 +36,18 @@
 | 29 | [Allianzcortex](https://github.com/Allianzcortex/Allianzcortex)                                       | 2020-07-11 | 2021-07-15 | md         |     0 |
 | 30 | [AlgImplementation](https://github.com/Allianzcortex/AlgImplementation)                               | 2016-12-19 | 2016-12-19 | md         |     0 |
 | 31 | [playying](https://github.com/Allianzcortex/playying)                                                 | 2016-10-27 | 2016-10-27 | Scala      |     0 |
-| 32 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2020-03-11 | Python     |     0 |
-| 33 | [AkkaTest](https://github.com/Allianzcortex/AkkaTest)                                                 | 2017-04-10 | 2017-04-10 | md         |     0 |
-| 34 | [requests-sourcecode-analysis](https://github.com/Allianzcortex/requests-sourcecode-analysis)         | 2016-05-22 | 2016-05-22 | md         |     0 |
-| 35 | [AcountBook](https://github.com/Allianzcortex/AcountBook)                                             | 2015-05-19 | 2017-01-18 | C++        |     0 |
-| 36 | [7shifts](https://github.com/Allianzcortex/7shifts)                                                   | 2020-08-24 | 2020-08-24 | Java       |     0 |
-| 37 | [seaflat](https://github.com/Allianzcortex/seaflat)                                                   | 2016-10-13 | 2016-10-13 | md         |     0 |
-| 38 | [solution-leetcode](https://github.com/Allianzcortex/solution-leetcode)                               | 2015-05-29 | 2015-06-09 | C++        |     0 |
-| 39 | [somecode](https://github.com/Allianzcortex/somecode)                                                 | 2016-04-19 | 2016-05-08 | Python     |     0 |
-| 40 | [Vechile-Manege-Modify](https://github.com/Allianzcortex/Vechile-Manege-Modify)                       | 2015-07-17 | 2015-07-17 | md         |     0 |
-| 41 | [YA_Wechat_Jump](https://github.com/Allianzcortex/YA_Wechat_Jump)                                     | 2017-12-30 | 2017-12-30 | md         |     0 |
-| 42 | [zhihu-project](https://github.com/Allianzcortex/zhihu-project)                                       | 2015-09-29 | 2015-09-29 | Python     |     0 |
+| 32 | [PLD](https://github.com/Allianzcortex/PLD)                                                           | 2016-10-18 | 2021-09-10 | Java       |     0 |
+| 33 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2020-03-11 | Python     |     0 |
+| 34 | [AkkaTest](https://github.com/Allianzcortex/AkkaTest)                                                 | 2017-04-10 | 2017-04-10 | md         |     0 |
+| 35 | [requests-sourcecode-analysis](https://github.com/Allianzcortex/requests-sourcecode-analysis)         | 2016-05-22 | 2016-05-22 | md         |     0 |
+| 36 | [AcountBook](https://github.com/Allianzcortex/AcountBook)                                             | 2015-05-19 | 2017-01-18 | C++        |     0 |
+| 37 | [7shifts](https://github.com/Allianzcortex/7shifts)                                                   | 2020-08-24 | 2020-08-24 | Java       |     0 |
+| 38 | [seaflat](https://github.com/Allianzcortex/seaflat)                                                   | 2016-10-13 | 2016-10-13 | md         |     0 |
+| 39 | [solution-leetcode](https://github.com/Allianzcortex/solution-leetcode)                               | 2015-05-29 | 2015-06-09 | C++        |     0 |
+| 40 | [somecode](https://github.com/Allianzcortex/somecode)                                                 | 2016-04-19 | 2016-05-08 | Python     |     0 |
+| 41 | [Vechile-Manege-Modify](https://github.com/Allianzcortex/Vechile-Manege-Modify)                       | 2015-07-17 | 2015-07-17 | md         |     0 |
+| 42 | [YA_Wechat_Jump](https://github.com/Allianzcortex/YA_Wechat_Jump)                                     | 2017-12-30 | 2017-12-30 | md         |     0 |
+| 43 | [zhihu-project](https://github.com/Allianzcortex/zhihu-project)                                       | 2015-09-29 | 2015-09-29 | Python     |     0 |
 
 ## The repos I contributed to
 | ID |                                           REPO                                            | FIRSTDATE  | LASTEDATE  |                                                PRCOUNT                                                 |
@@ -59,17 +60,17 @@
 |  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [guard](https://github.com/jiajunhuang/guard)                                                                | 2018-01-28 | Go         | 2021-08-04   |
-|  2 | [django-bootstrap3](https://github.com/zostera/django-bootstrap3)                                            | 2015-11-05 | Python     | 2021-08-26   |
-|  3 | [mern-social](https://github.com/shamahoque/mern-social)                                                     | 2020-10-21 | JavaScript | 2021-08-30   |
-|  4 | [algorithms](https://github.com/arnauddri/algorithms)                                                        | 2018-02-02 | Go         | 2021-08-29   |
-|  5 | [Dockerized-Golang-Postgres-Mysql-API](https://github.com/victorsteven/Dockerized-Golang-Postgres-Mysql-API) | 2020-04-10 | Go         | 2021-07-27   |
-|  6 | [logkit](https://github.com/qiniu/logkit)                                                                    | 2017-11-20 | Go         | 2021-09-01   |
-|  7 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)                                               | 2015-10-13 | HTML       | 2021-09-01   |
-|  8 | [databank](https://github.com/blockchain-university/databank)                                                | 2017-11-09 | JavaScript | 2021-08-24   |
-|  9 | [k8s-source-code-analysis](https://github.com/daniel-hutao/k8s-source-code-analysis)                         | 2020-09-11 | md         | 2021-08-27   |
-| 10 | [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch)                             | 2017-10-15 | Go         | 2021-09-01   |
+| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)                  | 2018-11-04 | Java       | 2021-09-11   |
+|  2 | [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) | 2021-01-06 | TypeScript | 2021-09-10   |
+|  3 | [YOURLS](https://github.com/YOURLS/YOURLS)                                             | 2018-04-16 | PHP        | 2021-09-11   |
+|  4 | [httpin](https://github.com/ggicci/httpin)                                             | 2021-07-19 | Go         | 2021-09-05   |
+|  5 | [Awesome-Interviews](https://github.com/wx-chevalier/Awesome-Interviews)               | 2021-05-31 | HTML       | 2021-09-10   |
+|  6 | [slack_bot](https://github.com/python-cn/slack_bot)                                    | 2016-03-11 | Python     | 2021-08-10   |
+|  7 | [tunny](https://github.com/Jeffail/tunny)                                              | 2020-01-04 | Go         | 2021-09-10   |
+|  8 | [machine_learning](https://github.com/masinoa/machine_learning)                        | 2016-10-10 | Python     | 2021-08-08   |
+|  9 | [yaraft](https://github.com/neverchanje/yaraft)                                        | 2017-10-17 | C++        | 2021-08-12   |
+| 10 | [react-markdown](https://github.com/remarkjs/react-markdown)                           | 2020-02-28 | JavaScript | 2021-09-10   |
 
 <!--END_SECTION:my_github-->
