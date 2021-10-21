@@ -7,7 +7,7 @@
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
 |  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-09-13 | Java       |   176 |
 |  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-09-30 | Python     |   168 |
-|  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-10-10 | Go         |    24 |
+|  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-10-11 | Go         |    25 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-10-03 | TypeScript |    19 |
 |  5 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
 |  6 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
@@ -17,7 +17,7 @@
 | 10 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2021-10-05 | Python     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 12 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-10-01 | md         |     0 |
+| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-10-11 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 16 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -53,23 +53,23 @@
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  4 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  5 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
-|  6 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  3 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  4 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)   | 2020-06-15 | Go         | 2021-10-11   |
-|  2 | [kingbus](https://github.com/flike/kingbus)                             | 2019-04-30 | Go         | 2021-10-08   |
-|  3 | [gocrawl](https://github.com/PuerkitoBio/gocrawl)                       | 2016-09-19 | Go         | 2021-09-25   |
-|  4 | [vue-go-example](https://github.com/ndabAP/vue-go-example)              | 2019-11-06 | JavaScript | 2021-10-01   |
-|  5 | [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)     | 2019-03-13 | TypeScript | 2021-10-09   |
-|  6 | [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews) | 2020-10-13 | Python     | 2021-10-10   |
-|  7 | [front-end-interview](https://github.com/nieyafei/front-end-interview)  | 2021-05-03 | JavaScript | 2021-09-15   |
-|  8 | [daze](https://github.com/mohanson/daze)                                | 2018-10-12 | Go         | 2021-09-30   |
-|  9 | [zhihu-spider](https://github.com/MorganZhang100/zhihu-spider)          | 2015-09-24 | Python     | 2021-09-09   |
-| 10 | [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)        | 2020-08-25 | Java       | 2021-10-11   |
+| ID |                                    REPO                                     | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [react-dates](https://github.com/airbnb/react-dates)                        | 2019-06-22 | JavaScript       | 2021-10-19   |
+|  2 | [jolla](https://github.com/salamer/jolla)                                   | 2016-09-05 | Python           | 2021-09-04   |
+|  3 | [bat](https://github.com/astaxie/bat)                                       | 2017-12-14 | Go               | 2021-10-19   |
+|  4 | [leetcode](https://github.com/h2pl/leetcode)                                | 2019-10-23 | Java             | 2021-10-11   |
+|  5 | [zhihu-spider](https://github.com/MorganZhang100/zhihu-spider)              | 2015-09-24 | Python           | 2021-09-09   |
+|  6 | [interviews](https://github.com/kdn251/interviews)                          | 2017-09-14 | Java             | 2021-10-21   |
+|  7 | [gin](https://github.com/gin-gonic/gin)                                     | 2018-02-09 | Go               | 2021-10-21   |
+|  8 | [Machine-Learning](https://github.com/FlorianMuellerklein/Machine-Learning) | 2016-10-10 | Jupyter Notebook | 2021-09-24   |
+|  9 | [cache2go](https://github.com/muesli/cache2go)                              | 2019-05-17 | Go               | 2021-10-12   |
+| 10 | [react-native-guide](https://github.com/reactnativecn/react-native-guide)   | 2020-07-03 | md               | 2021-10-20   |
 
 <!--END_SECTION:my_github-->
