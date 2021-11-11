@@ -5,8 +5,8 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-09-13 | Java       |   176 |
-|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-10-27 | Python     |   169 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-11-06 | Java       |   179 |
+|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-11-02 | Python     |   170 |
 |  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-10-31 | Go         |    27 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-10-03 | TypeScript |    19 |
 |  5 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
@@ -17,7 +17,7 @@
 | 10 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2021-10-05 | Python     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 12 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-10-31 | md         |     0 |
+| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-11-01 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 16 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -60,17 +60,17 @@
 |  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Capslock](https://github.com/Vonng/Capslock)                                      | 2016-11-24 | HTML       | 2021-10-29   |
-|  2 | [go-interview](https://github.com/shomali11/go-interview)                          | 2020-07-16 | Go         | 2021-10-31   |
-|  3 | [openweathermap](https://github.com/briandowns/openweathermap)                     | 2021-08-14 | Go         | 2021-10-29   |
-|  4 | [fucking-java-concurrency](https://github.com/oldratlee/fucking-java-concurrency)  | 2019-09-27 | Java       | 2021-10-31   |
-|  5 | [euro2016predictor](https://github.com/iamhankai/euro2016predictor)                | 2016-06-09 | Python     | 2021-10-09   |
-|  6 | [groupcache](https://github.com/golang/groupcache)                                 | 2019-03-14 | Go         | 2021-11-01   |
-|  7 | [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) | 2020-02-28 | TypeScript | 2021-10-31   |
-|  8 | [algorithms](https://github.com/arnauddri/algorithms)                              | 2018-02-02 | Go         | 2021-10-27   |
-|  9 | [wechat_jump_game](https://github.com/wangshub/wechat_jump_game)                   | 2017-12-29 | Python     | 2021-11-01   |
-| 10 | [easy-tips](https://github.com/TIGERB/easy-tips)                                   | 2017-03-03 | PHP        | 2021-11-01   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [python-fire](https://github.com/google/python-fire)                                                 | 2017-03-06 | Python     | 2021-11-11   |
+|  2 | [annie](https://github.com/iawia002/annie)                                                           | 2021-07-26 | Go         | 2021-11-11   |
+|  3 | [interview-questions](https://github.com/resumejob/interview-questions)                              | 2021-03-23 | md         | 2021-11-10   |
+|  4 | [useful-scripts](https://github.com/oldratlee/useful-scripts)                                        | 2018-09-18 | Shell      | 2021-11-11   |
+|  5 | [filebrowser](https://github.com/filebrowser/filebrowser)                                            | 2017-12-20 | Go         | 2021-11-11   |
+|  6 | [awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems)            | 2017-09-12 | md         | 2021-11-03   |
+|  7 | [lintcode-in-java](https://github.com/venciallee/lintcode-in-java)                                   | 2020-06-22 | Java       | 2021-03-02   |
+|  8 | [Awesome-Interviews](https://github.com/wx-chevalier/Awesome-Interviews)                             | 2021-05-31 | HTML       | 2021-11-02   |
+|  9 | [laravel5-angular-material-starter](https://github.com/jadjoubran/laravel5-angular-material-starter) | 2018-10-19 | PHP        | 2021-10-21   |
+| 10 | [express-typescript](https://github.com/mwanago/express-typescript)                                  | 2021-01-06 | TypeScript | 2021-11-09   |
 
 <!--END_SECTION:my_github-->
