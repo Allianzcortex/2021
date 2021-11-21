@@ -5,8 +5,8 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-11-06 | Java       |   179 |
-|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-11-02 | Python     |   170 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-11-16 | Java       |   181 |
+|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-11-16 | Python     |   169 |
 |  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-10-31 | Go         |    27 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-10-03 | TypeScript |    19 |
 |  5 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
@@ -17,7 +17,7 @@
 | 10 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2021-10-05 | Python     |     1 |
 | 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
 | 12 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-11-01 | md         |     0 |
+| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-11-11 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
 | 15 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 16 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
@@ -54,23 +54,23 @@
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
-|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  3 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  4 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  5 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  6 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [python-fire](https://github.com/google/python-fire)                                                 | 2017-03-06 | Python     | 2021-11-11   |
-|  2 | [annie](https://github.com/iawia002/annie)                                                           | 2021-07-26 | Go         | 2021-11-11   |
-|  3 | [interview-questions](https://github.com/resumejob/interview-questions)                              | 2021-03-23 | md         | 2021-11-10   |
-|  4 | [useful-scripts](https://github.com/oldratlee/useful-scripts)                                        | 2018-09-18 | Shell      | 2021-11-11   |
-|  5 | [filebrowser](https://github.com/filebrowser/filebrowser)                                            | 2017-12-20 | Go         | 2021-11-11   |
-|  6 | [awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems)            | 2017-09-12 | md         | 2021-11-03   |
-|  7 | [lintcode-in-java](https://github.com/venciallee/lintcode-in-java)                                   | 2020-06-22 | Java       | 2021-03-02   |
-|  8 | [Awesome-Interviews](https://github.com/wx-chevalier/Awesome-Interviews)                             | 2021-05-31 | HTML       | 2021-11-02   |
-|  9 | [laravel5-angular-material-starter](https://github.com/jadjoubran/laravel5-angular-material-starter) | 2018-10-19 | PHP        | 2021-10-21   |
-| 10 | [express-typescript](https://github.com/mwanago/express-typescript)                                  | 2021-01-06 | TypeScript | 2021-11-09   |
+| ID |                                              REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-cto](https://github.com/kuchin/awesome-cto)                                           | 2021-03-01 | md         | 2021-11-21   |
+|  2 | [consensus-yaraft](https://github.com/neverchanje/consensus-yaraft)                            | 2017-10-17 | C++        | 2020-11-16   |
+|  3 | [avatar-gen](https://github.com/wave-charts/avatar-gen)                                        | 2021-02-03 | Vue        | 2021-11-19   |
+|  4 | [spring-microservices-in-action](https://github.com/wuyichen24/spring-microservices-in-action) | 2020-01-02 | Java       | 2021-11-17   |
+|  5 | [web](https://github.com/hoisie/web)                                                           | 2016-09-20 | Go         | 2021-11-17   |
+|  6 | [react-hooks](https://github.com/taniarascia/react-hooks)                                      | 2020-02-29 | JavaScript | 2021-11-21   |
+|  7 | [mit6.828-2017](https://github.com/shishujuan/mit6.828-2017)                                   | 2019-05-23 | C          | 2021-11-18   |
+|  8 | [AlgoXY](https://github.com/liuxinyu95/AlgoXY)                                                 | 2016-01-13 | TeX        | 2021-11-21   |
+|  9 | [go-qrcode](https://github.com/skip2/go-qrcode)                                                | 2018-05-29 | Go         | 2021-11-20   |
+| 10 | [cphb](https://github.com/pllk/cphb)                                                           | 2019-12-28 | TeX        | 2021-11-15   |
 
 <!--END_SECTION:my_github-->
