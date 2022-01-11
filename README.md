@@ -5,72 +5,71 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2021-12-16 | Java       |   182 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2022-01-05 | Java       |   182 |
 |  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-12-27 | Python     |   170 |
 |  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-12-20 | Go         |    28 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-10-03 | TypeScript |    19 |
-|  5 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
-|  6 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
-|  7 | [lagou_crawler](https://github.com/Allianzcortex/lagou_crawler)                                       | 2016-07-08 | 2017-09-06 | Python     |     3 |
-|  8 | [Seaeels](https://github.com/Allianzcortex/Seaeels)                                                   | 2016-08-31 | 2017-07-17 | Python     |     3 |
+|  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
+|  6 | [golean](https://github.com/Allianzcortex/golean)                                                     | 2018-12-29 | 2020-02-09 | Go         |     7 |
+|  7 | [Seaeels](https://github.com/Allianzcortex/Seaeels)                                                   | 2016-08-31 | 2017-07-17 | Python     |     3 |
+|  8 | [lagou_crawler](https://github.com/Allianzcortex/lagou_crawler)                                       | 2016-07-08 | 2017-09-06 | Python     |     3 |
 |  9 | [myLM](https://github.com/Allianzcortex/myLM)                                                         | 2015-11-21 | 2019-07-03 | HTML       |     2 |
-| 10 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2021-10-05 | Python     |     1 |
-| 11 | [Scala-Problem](https://github.com/Allianzcortex/Scala-Problem)                                       | 2020-01-04 | 2020-01-04 | Scala      |     1 |
-| 12 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
-| 13 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2021-12-31 | md         |     0 |
+| 10 | [Jstorm-split-word-count-ack-demo](https://github.com/Allianzcortex/Jstorm-split-word-count-ack-demo) | 2016-09-20 | 2017-02-16 | Java       |     1 |
+| 11 | [pyqt-example](https://github.com/Allianzcortex/pyqt-example)                                         | 2016-08-29 | 2021-10-05 | Python     |     1 |
+| 12 | [2021](https://github.com/Allianzcortex/2021)                                                         | 2021-01-25 | 2022-01-01 | md         |     0 |
+| 13 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
 | 14 | [demo](https://github.com/Allianzcortex/demo)                                                         | 2016-07-08 | 2016-07-08 | Python     |     0 |
-| 15 | [ddup](https://github.com/Allianzcortex/ddup)                                                         | 2020-05-01 | 2020-05-09 | md         |     0 |
-| 16 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
-| 17 | [course-CSAPP](https://github.com/Allianzcortex/course-CSAPP)                                         | 2015-06-03 | 2015-06-03 | md         |     0 |
+| 15 | [DatabaseAssignment](https://github.com/Allianzcortex/DatabaseAssignment)                             | 2019-03-16 | 2019-05-27 | Java       |     0 |
+| 16 | [course-CSAPP](https://github.com/Allianzcortex/course-CSAPP)                                         | 2015-06-03 | 2015-06-03 | md         |     0 |
+| 17 | [forimage](https://github.com/Allianzcortex/forimage)                                                 | 2019-07-07 | 2019-07-24 | md         |     0 |
 | 18 | [gittest](https://github.com/Allianzcortex/gittest)                                                   | 2015-06-05 | 2015-06-05 | md         |     0 |
 | 19 | [course-compile](https://github.com/Allianzcortex/course-compile)                                     | 2015-05-29 | 2015-05-29 | C++        |     0 |
 | 20 | [hello_world](https://github.com/Allianzcortex/hello_world)                                           | 2014-09-22 | 2014-09-22 | md         |     0 |
 | 21 | [HouseEMApplication](https://github.com/Allianzcortex/HouseEMApplication)                             | 2019-06-12 | 2019-06-14 | HTML       |     0 |
-| 22 | [forimage](https://github.com/Allianzcortex/forimage)                                                 | 2019-07-07 | 2019-07-24 | md         |     0 |
+| 22 | [Book-All-Read](https://github.com/Allianzcortex/Book-All-Read)                                       | 2015-12-21 | 2015-12-21 | md         |     0 |
 | 23 | [jstorm-word-count-demo](https://github.com/Allianzcortex/jstorm-word-count-demo)                     | 2016-08-02 | 2016-08-03 | Java       |     0 |
 | 24 | [JVMCodeUtils](https://github.com/Allianzcortex/JVMCodeUtils)                                         | 2017-03-04 | 2017-03-04 | md         |     0 |
-| 25 | [Book-All-Read](https://github.com/Allianzcortex/Book-All-Read)                                       | 2015-12-21 | 2015-12-21 | md         |     0 |
+| 25 | [Allianzcortex.github.io](https://github.com/Allianzcortex/Allianzcortex.github.io)                   | 2017-04-27 | 2021-03-19 | HTML       |     0 |
 | 26 | [LaraCache](https://github.com/Allianzcortex/LaraCache)                                               | 2020-05-17 | 2020-05-20 | Go         |     0 |
 | 27 | [LC-Solution](https://github.com/Allianzcortex/LC-Solution)                                           | 2016-12-09 | 2016-12-09 | md         |     0 |
 | 28 | [Library](https://github.com/Allianzcortex/Library)                                                   | 2016-02-22 | 2016-02-22 | Python     |     0 |
-| 29 | [Allianzcortex.github.io](https://github.com/Allianzcortex/Allianzcortex.github.io)                   | 2017-04-27 | 2021-03-19 | HTML       |     0 |
-| 30 | [Allianzcortex](https://github.com/Allianzcortex/Allianzcortex)                                       | 2020-07-11 | 2021-07-15 | md         |     0 |
+| 29 | [Allianzcortex](https://github.com/Allianzcortex/Allianzcortex)                                       | 2020-07-11 | 2022-01-03 | md         |     0 |
+| 30 | [AlgImplementation](https://github.com/Allianzcortex/AlgImplementation)                               | 2016-12-19 | 2016-12-19 | md         |     0 |
 | 31 | [playying](https://github.com/Allianzcortex/playying)                                                 | 2016-10-27 | 2016-10-27 | Scala      |     0 |
-| 32 | [zhihu-project](https://github.com/Allianzcortex/zhihu-project)                                       | 2015-09-29 | 2015-09-29 | Python     |     0 |
-| 33 | [AlgImplementation](https://github.com/Allianzcortex/AlgImplementation)                               | 2016-12-19 | 2016-12-19 | md         |     0 |
+| 32 | [AkkaTest](https://github.com/Allianzcortex/AkkaTest)                                                 | 2017-04-10 | 2017-04-10 | md         |     0 |
+| 33 | [AcountBook](https://github.com/Allianzcortex/AcountBook)                                             | 2015-05-19 | 2017-01-18 | C++        |     0 |
 | 34 | [requests-sourcecode-analysis](https://github.com/Allianzcortex/requests-sourcecode-analysis)         | 2016-05-22 | 2016-05-22 | md         |     0 |
-| 35 | [AkkaTest](https://github.com/Allianzcortex/AkkaTest)                                                 | 2017-04-10 | 2017-04-10 | md         |     0 |
-| 36 | [AcountBook](https://github.com/Allianzcortex/AcountBook)                                             | 2015-05-19 | 2017-01-18 | C++        |     0 |
-| 37 | [7shifts](https://github.com/Allianzcortex/7shifts)                                                   | 2020-08-24 | 2020-08-24 | Java       |     0 |
-| 38 | [solution-leetcode](https://github.com/Allianzcortex/solution-leetcode)                               | 2015-05-29 | 2015-06-09 | C++        |     0 |
-| 39 | [somecode](https://github.com/Allianzcortex/somecode)                                                 | 2016-04-19 | 2016-05-08 | Python     |     0 |
-| 40 | [Vechile-Manege-Modify](https://github.com/Allianzcortex/Vechile-Manege-Modify)                       | 2015-07-17 | 2015-07-17 | md         |     0 |
-| 41 | [YA_Wechat_Jump](https://github.com/Allianzcortex/YA_Wechat_Jump)                                     | 2017-12-30 | 2017-12-30 | md         |     0 |
-| 42 | [seaflat](https://github.com/Allianzcortex/seaflat)                                                   | 2016-10-13 | 2016-10-13 | md         |     0 |
+| 35 | [7shifts](https://github.com/Allianzcortex/7shifts)                                                   | 2020-08-24 | 2020-08-24 | Java       |     0 |
+| 36 | [seaflat](https://github.com/Allianzcortex/seaflat)                                                   | 2016-10-13 | 2016-10-13 | md         |     0 |
+| 37 | [solution-leetcode](https://github.com/Allianzcortex/solution-leetcode)                               | 2015-05-29 | 2015-06-09 | C++        |     0 |
+| 38 | [somecode](https://github.com/Allianzcortex/somecode)                                                 | 2016-04-19 | 2016-05-08 | Python     |     0 |
+| 39 | [Vechile-Manege-Modify](https://github.com/Allianzcortex/Vechile-Manege-Modify)                       | 2015-07-17 | 2015-07-17 | md         |     0 |
+| 40 | [YA_Wechat_Jump](https://github.com/Allianzcortex/YA_Wechat_Jump)                                     | 2017-12-30 | 2017-12-30 | md         |     0 |
+| 41 | [zhihu-project](https://github.com/Allianzcortex/zhihu-project)                                       | 2015-09-29 | 2015-09-29 | Python     |     0 |
 
 ## The repos I contributed to
 | ID |                                           REPO                                            | FIRSTDATE  | LASTEDATE  |                                                PRCOUNT                                                 |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
-|  4 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
-|  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  7 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  3 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
+|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  7 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
 
 ## The repos I stared (random 10)
-| ID |                                 REPO                                 | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [blog](https://github.com/xufei/blog)                                | 2018-03-04 | md               | 2021-12-30   |
-|  2 | [netty-socketio](https://github.com/mrniko/netty-socketio)           | 2018-07-23 | Java             | 2022-01-01   |
-|  3 | [gluon-tutorials](https://github.com/mli/gluon-tutorials)            | 2017-10-22 | Python           | 2020-01-16   |
-|  4 | [django-userena](https://github.com/bread-and-pepper/django-userena) | 2016-03-02 | Python           | 2022-01-01   |
-|  5 | [daily](https://github.com/pwstrick/daily)                           | 2020-12-31 | md               | 2021-12-29   |
-|  6 | [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)  | 2016-08-16 | Sass             | 2021-12-31   |
-|  7 | [serf](https://github.com/hashicorp/serf)                            | 2017-10-17 | Go               | 2022-01-01   |
-|  8 | [go-linux-commands](https://github.com/skatsuta/go-linux-commands)   | 2017-07-07 | Go               | 2020-07-29   |
-|  9 | [cphb](https://github.com/pllk/cphb)                                 | 2019-12-28 | TeX              | 2021-12-31   |
-| 10 | [jobsVisualization](https://github.com/wwj718/jobsVisualization)     | 2016-08-07 | Jupyter Notebook | 2020-06-26   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [easegress](https://github.com/megaease/easegress)                                 | 2021-09-20 | Go         | 2022-01-11   |
+|  2 | [Qix](https://github.com/ty4z2008/Qix)                                             | 2016-05-04 | md         | 2022-01-10   |
+|  3 | [miaosha](https://github.com/qiurunze123/miaosha)                                  | 2018-12-20 | Java       | 2022-01-11   |
+|  4 | [laisky-blog-graphql](https://github.com/Laisky/laisky-blog-graphql)               | 2019-11-12 | Go         | 2021-12-27   |
+|  5 | [redis-cerberus](https://github.com/projecteru/redis-cerberus)                     | 2015-11-25 | C++        | 2021-11-15   |
+|  6 | [bat](https://github.com/astaxie/bat)                                              | 2017-12-14 | Go         | 2022-01-10   |
+|  7 | [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) | 2020-02-28 | TypeScript | 2022-01-10   |
+|  8 | [gosvr-monitor](https://github.com/zheng-ji/gosvr-monitor)                         | 2016-09-24 | Go         | 2021-05-06   |
+|  9 | [rabbit-tcp](https://github.com/ihciah/rabbit-tcp)                                 | 2019-10-27 | Go         | 2022-01-07   |
+| 10 | [etcd-service-discovery](https://github.com/daizuozhuo/etcd-service-discovery)     | 2020-05-17 | Go         | 2021-11-08   |
 
 <!--END_SECTION:my_github-->
