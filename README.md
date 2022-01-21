@@ -5,7 +5,7 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2022-01-05 | Java       |   182 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2022-01-20 | Java       |   185 |
 |  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-12-27 | Python     |   170 |
 |  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-12-20 | Go         |    28 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-10-03 | TypeScript |    19 |
@@ -59,17 +59,17 @@
 |  7 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [easegress](https://github.com/megaease/easegress)                                 | 2021-09-20 | Go         | 2022-01-11   |
-|  2 | [Qix](https://github.com/ty4z2008/Qix)                                             | 2016-05-04 | md         | 2022-01-10   |
-|  3 | [miaosha](https://github.com/qiurunze123/miaosha)                                  | 2018-12-20 | Java       | 2022-01-11   |
-|  4 | [laisky-blog-graphql](https://github.com/Laisky/laisky-blog-graphql)               | 2019-11-12 | Go         | 2021-12-27   |
-|  5 | [redis-cerberus](https://github.com/projecteru/redis-cerberus)                     | 2015-11-25 | C++        | 2021-11-15   |
-|  6 | [bat](https://github.com/astaxie/bat)                                              | 2017-12-14 | Go         | 2022-01-10   |
-|  7 | [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) | 2020-02-28 | TypeScript | 2022-01-10   |
-|  8 | [gosvr-monitor](https://github.com/zheng-ji/gosvr-monitor)                         | 2016-09-24 | Go         | 2021-05-06   |
-|  9 | [rabbit-tcp](https://github.com/ihciah/rabbit-tcp)                                 | 2019-10-27 | Go         | 2022-01-07   |
-| 10 | [etcd-service-discovery](https://github.com/daizuozhuo/etcd-service-discovery)     | 2020-05-17 | Go         | 2021-11-08   |
+| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [forum](https://github.com/zhu327/forum)                                               | 2015-11-15 | JavaScript | 2022-01-18   |
+|  2 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 2017-09-06 | md         | 2022-01-21   |
+|  3 | [kcptun](https://github.com/xtaci/kcptun)                                              | 2017-09-10 | Go         | 2022-01-21   |
+|  4 | [snowflake](https://github.com/bwmarrin/snowflake)                                     | 2019-05-29 | Go         | 2022-01-20   |
+|  5 | [JGrowing](https://github.com/javagrowing/JGrowing)                                    | 2019-12-20 | Java       | 2022-01-21   |
+|  6 | [go-vue-starter](https://github.com/markcheno/go-vue-starter)                          | 2020-01-04 | JavaScript | 2021-09-16   |
+|  7 | [cool-music](https://github.com/facebesidewyj/cool-music)                              | 2018-09-13 | Vue        | 2021-09-28   |
+|  8 | [translations](https://github.com/oldratlee/translations)                              | 2019-10-26 | md         | 2022-01-21   |
+|  9 | [AsciiArt](https://github.com/xrlin/AsciiArt)                                          | 2017-09-05 | Go         | 2021-10-09   |
+| 10 | [scrapy](https://github.com/scrapy/scrapy)                                             | 2015-09-22 | Python     | 2022-01-21   |
 
 <!--END_SECTION:my_github-->
