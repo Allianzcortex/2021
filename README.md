@@ -5,7 +5,7 @@
 ## The repos I created
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2022-01-20 | Java       |   185 |
+|  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2022-01-28 | Java       |   186 |
 |  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2021-12-27 | Python     |   170 |
 |  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-12-20 | Go         |    28 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2021-10-03 | TypeScript |    19 |
@@ -50,26 +50,26 @@
 ## The repos I contributed to
 | ID |                                           REPO                                            | FIRSTDATE  | LASTEDATE  |                                                PRCOUNT                                                 |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
-|  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
-|  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
-|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  7 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  1 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
+|  2 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
+|  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  4 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
+|  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  7 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [forum](https://github.com/zhu327/forum)                                               | 2015-11-15 | JavaScript | 2022-01-18   |
-|  2 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 2017-09-06 | md         | 2022-01-21   |
-|  3 | [kcptun](https://github.com/xtaci/kcptun)                                              | 2017-09-10 | Go         | 2022-01-21   |
-|  4 | [snowflake](https://github.com/bwmarrin/snowflake)                                     | 2019-05-29 | Go         | 2022-01-20   |
-|  5 | [JGrowing](https://github.com/javagrowing/JGrowing)                                    | 2019-12-20 | Java       | 2022-01-21   |
-|  6 | [go-vue-starter](https://github.com/markcheno/go-vue-starter)                          | 2020-01-04 | JavaScript | 2021-09-16   |
-|  7 | [cool-music](https://github.com/facebesidewyj/cool-music)                              | 2018-09-13 | Vue        | 2021-09-28   |
-|  8 | [translations](https://github.com/oldratlee/translations)                              | 2019-10-26 | md         | 2022-01-21   |
-|  9 | [AsciiArt](https://github.com/xrlin/AsciiArt)                                          | 2017-09-05 | Go         | 2021-10-09   |
-| 10 | [scrapy](https://github.com/scrapy/scrapy)                                             | 2015-09-22 | Python     | 2022-01-21   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 2021-05-03 | JavaScript | 2022-01-31   |
+|  2 | [react-ruby-china](https://github.com/liuzhenangel/react-ruby-china)                     | 2020-01-09 | JavaScript | 2022-01-26   |
+|  3 | [architect-awesome](https://github.com/xingshaocheng/architect-awesome)                  | 2021-12-08 | md         | 2022-01-30   |
+|  4 | [React-Express-Blog-Demo](https://github.com/Nealyang/React-Express-Blog-Demo)           | 2018-06-04 | JavaScript | 2022-01-30   |
+|  5 | [my-token](https://github.com/polyrabbit/my-token)                                       | 2018-09-06 | Go         | 2022-01-29   |
+|  6 | [react_admin_dashboard](https://github.com/AlbionaHoti/react_admin_dashboard)            | 2020-04-14 | JavaScript | 2021-11-18   |
+|  7 | [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)              | 2020-12-26 | Go         | 2022-01-29   |
+|  8 | [simpledb](https://github.com/happyer/simpledb)                                          | 2020-04-08 | Java       | 2021-11-06   |
+|  9 | [testify](https://github.com/stretchr/testify)                                           | 2021-06-01 | Go         | 2022-01-30   |
+| 10 | [devfolio](https://github.com/mmacneil/devfolio)                                         | 2020-09-03 | JavaScript | 2022-01-25   |
 
 <!--END_SECTION:my_github-->
