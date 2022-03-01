@@ -50,26 +50,26 @@
 ## The repos I contributed to
 | ID |                                           REPO                                            | FIRSTDATE  | LASTEDATE  |                                                PRCOUNT                                                 |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
-|  1 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  2 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
-|  3 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
-|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  7 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
+|  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
+|  3 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  4 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
+|  5 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  6 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
+|  7 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
 
 ## The repos I stared (random 10)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [promptui](https://github.com/manifoldco/promptui)                   | 2018-12-26 | Go         | 2022-02-20   |
-|  2 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 2020-04-21 | Markdown   | 2022-02-21   |
-|  3 | [ComplexNetwork](https://github.com/xjtushilei/ComplexNetwork)       | 2018-06-11 | JavaScript | 2021-11-20   |
-|  4 | [Json](https://github.com/Yuan-Hang/Json)                            | 2018-01-05 | C++        | 2021-10-20   |
-|  5 | [xlearn](https://github.com/aksnzhy/xlearn)                          | 2017-11-25 | C++        | 2022-02-13   |
-|  6 | [kingbus](https://github.com/flike/kingbus)                          | 2019-04-30 | Go         | 2022-02-17   |
-|  7 | [gensim](https://github.com/RaRe-Technologies/gensim)                | 2016-02-22 | Python     | 2022-02-20   |
-|  8 | [pynamical](https://github.com/gboeing/pynamical)                    | 2015-06-23 | Python     | 2022-02-12   |
-|  9 | [learning-to-learn](https://github.com/deepmind/learning-to-learn)   | 2017-01-04 | Python     | 2022-02-20   |
-| 10 | [spring-cloud](https://github.com/yinjihuan/spring-cloud)            | 2020-06-14 | Java       | 2022-02-18   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [waka-box-go](https://github.com/YouEclipse/waka-box-go)                             | 2020-11-04 | Go         | 2022-02-10   |
+|  2 | [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)                     | 2020-08-25 | Java       | 2022-03-01   |
+|  3 | [react-times](https://github.com/ecmadao/react-times)                                | 2019-06-22 | JavaScript | 2022-02-23   |
+|  4 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 2016-05-06 | Python     | 2022-03-01   |
+|  5 | [gleam](https://github.com/chrislusf/gleam)                                          | 2017-09-16 | Go         | 2022-02-27   |
+|  6 | [Gaea](https://github.com/XiaoMi/Gaea)                                               | 2019-05-26 | Go         | 2022-02-26   |
+|  7 | [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)               | 2018-04-09 | C++        | 2022-03-01   |
+|  8 | [django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)        | 2016-08-08 | Python     | 2022-02-20   |
+|  9 | [StudyNote](https://github.com/qqzxingchen/StudyNote)                                | 2017-05-25 | Python     | 2021-01-25   |
+| 10 | [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)    | 2020-09-29 | md         | 2022-03-01   |
 
 <!--END_SECTION:my_github-->
