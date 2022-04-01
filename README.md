@@ -52,24 +52,24 @@
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
 |  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
-|  3 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
-|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
-|  5 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
-|  6 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
-|  7 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
+|  4 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
+|  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
+|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)                  | 2020-05-14 | 2020-05-14 | [1](https://github.com/vicdus/uscis-case-statistics/pulls?q=is%3Apr+author%3AAllianzcortex)            |
+|  7 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [zi2zi](https://github.com/kaonashi-tyc/zi2zi)                                    | 2017-10-07 | Python     | 2022-03-29   |
-|  2 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                     | 2015-10-27 | Python     | 2022-03-24   |
-|  3 | [xxl-sso](https://github.com/xuxueli/xxl-sso)                                     | 2018-04-05 | Java       | 2022-03-26   |
-|  4 | [CS_Offer](https://github.com/selfboot/CS_Offer)                                  | 2017-09-21 | C++        | 2022-03-28   |
-|  5 | [guard](https://github.com/jiajunhuang/guard)                                     | 2018-01-28 | Go         | 2022-03-22   |
-|  6 | [uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)          | 2020-05-14 | TypeScript | 2022-03-30   |
-|  7 | [promptui](https://github.com/manifoldco/promptui)                                | 2018-12-26 | Go         | 2022-03-31   |
-|  8 | [immutable-redux-todo](https://github.com/sitepoint-editors/immutable-redux-todo) | 2020-01-13 | JavaScript | 2021-08-13   |
-|  9 | [pogreb](https://github.com/akrylysov/pogreb)                                     | 2018-01-29 | Go         | 2022-03-30   |
-| 10 | [redigo](https://github.com/gomodule/redigo)                                      | 2020-02-23 | Go         | 2022-03-31   |
+| ID |                                     REPO                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [abseil-cpp](https://github.com/abseil/abseil-cpp)                            | 2017-10-12 | C++        | 2022-04-01   |
+|  2 | [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) | 2019-08-26 | md         | 2022-03-30   |
+|  3 | [redislock](https://github.com/bsm/redislock)                                 | 2021-01-26 | Go         | 2022-03-30   |
+|  4 | [manong](https://github.com/nemoTyrant/manong)                                | 2017-04-19 | PHP        | 2022-03-22   |
+|  5 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                           | 2018-10-09 | Vue        | 2022-04-01   |
+|  6 | [delay-queue](https://github.com/ouqiang/delay-queue)                         | 2017-09-25 | Go         | 2022-03-29   |
+|  7 | [django-taggit](https://github.com/jazzband/django-taggit)                    | 2016-12-17 | Python     | 2022-03-25   |
+|  8 | [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)          | 2018-10-19 | JavaScript | 2022-03-31   |
+|  9 | [jellyap](https://github.com/7sDream/jellyap)                                 | 2017-04-06 | Shell      | 2021-03-04   |
+| 10 | [algorithms](https://github.com/xtaci/algorithms)                             | 2017-12-24 | C++        | 2022-03-31   |
 
 <!--END_SECTION:my_github-->
