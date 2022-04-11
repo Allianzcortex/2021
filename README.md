@@ -6,7 +6,7 @@
 | ID |                                                 REPO                                                  |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|------------|-------|
 |  1 | [code_collection](https://github.com/Allianzcortex/code_collection)                                   | 2018-11-27 | 2022-03-29 | Java       |   193 |
-|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2022-03-14 | Python     |   173 |
+|  2 | [MusicRecommenderSystem](https://github.com/Allianzcortex/MusicRecommenderSystem)                     | 2016-03-13 | 2022-04-04 | Python     |   173 |
 |  3 | [FF-Backup](https://github.com/Allianzcortex/FF-Backup)                                               | 2018-01-27 | 2021-12-20 | Go         |    28 |
 |  4 | [react-typescript-hooks-realworld](https://github.com/Allianzcortex/react-typescript-hooks-realworld) | 2018-10-19 | 2022-03-29 | TypeScript |    20 |
 |  5 | [FBRank](https://github.com/Allianzcortex/FBRank)                                                     | 2016-12-30 | 2021-01-06 | Python     |     7 |
@@ -50,8 +50,8 @@
 ## The repos I contributed to
 | ID |                                           REPO                                            | FIRSTDATE  | LASTEDATE  |                                                PRCOUNT                                                 |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------------------------------------|
-|  1 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
-|  2 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
+|  1 | [FlightBookingApp](https://github.com/A00431605/FlightBookingApp)                         | 2019-04-05 | 2019-04-07 | [2](https://github.com/A00431605/FlightBookingApp/pulls?q=is%3Apr+author%3AAllianzcortex)              |
+|  2 | [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) | 2019-08-31 | 2019-08-31 | [2](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex) |
 |  3 | [daze](https://github.com/mohanson/daze)                                                  | 2018-10-12 | 2018-10-12 | [1](https://github.com/mohanson/daze/pulls?q=is%3Apr+author%3AAllianzcortex)                           |
 |  4 | [krew](https://github.com/kubernetes-sigs/krew)                                           | 2021-12-03 | 2021-12-03 | [1](https://github.com/kubernetes-sigs/krew/pulls?q=is%3Apr+author%3AAllianzcortex)                    |
 |  5 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                  | 2020-12-30 | 2020-12-30 | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3AAllianzcortex)          |
@@ -59,17 +59,17 @@
 |  7 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)     | 2019-08-08 | 2019-08-08 | [1](https://github.com/gothinkster/vue-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex)   |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [abseil-cpp](https://github.com/abseil/abseil-cpp)                            | 2017-10-12 | C++        | 2022-04-01   |
-|  2 | [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) | 2019-08-26 | md         | 2022-03-30   |
-|  3 | [redislock](https://github.com/bsm/redislock)                                 | 2021-01-26 | Go         | 2022-03-30   |
-|  4 | [manong](https://github.com/nemoTyrant/manong)                                | 2017-04-19 | PHP        | 2022-03-22   |
-|  5 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                           | 2018-10-09 | Vue        | 2022-04-01   |
-|  6 | [delay-queue](https://github.com/ouqiang/delay-queue)                         | 2017-09-25 | Go         | 2022-03-29   |
-|  7 | [django-taggit](https://github.com/jazzband/django-taggit)                    | 2016-12-17 | Python     | 2022-03-25   |
-|  8 | [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)          | 2018-10-19 | JavaScript | 2022-03-31   |
-|  9 | [jellyap](https://github.com/7sDream/jellyap)                                 | 2017-04-06 | Shell      | 2021-03-04   |
-| 10 | [algorithms](https://github.com/xtaci/algorithms)                             | 2017-12-24 | C++        | 2022-03-31   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [django-bootstrap3](https://github.com/zostera/django-bootstrap3) | 2015-11-05 | Python     | 2022-04-09   |
+|  2 | [algs4](https://github.com/kevin-wayne/algs4)                     | 2016-07-29 | Java       | 2022-04-10   |
+|  3 | [blur-admin](https://github.com/akveo/blur-admin)                 | 2016-08-09 | JavaScript | 2022-04-11   |
+|  4 | [ife](https://github.com/xianshenglu/ife)                         | 2019-10-25 | HTML       | 2019-10-25   |
+|  5 | [proposal](https://github.com/golang/proposal)                    | 2018-07-11 | Go         | 2022-04-10   |
+|  6 | [aas](https://github.com/sryza/aas)                               | 2016-07-29 | Scala      | 2022-04-03   |
+|  7 | [go-spew](https://github.com/davecgh/go-spew)                     | 2018-02-05 | Go         | 2022-04-11   |
+|  8 | [wakapi](https://github.com/muety/wakapi)                         | 2021-10-08 | Go         | 2022-04-10   |
+|  9 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)       | 2018-04-11 | Ruby       | 2022-04-10   |
+| 10 | [todomvc](https://github.com/tastejs/todomvc)                     | 2018-10-21 | JavaScript | 2022-04-10   |
 
 <!--END_SECTION:my_github-->
